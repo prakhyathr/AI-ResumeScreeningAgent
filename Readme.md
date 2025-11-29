@@ -136,5 +136,5 @@ SETUP & RUN INSTRUCTIONS
  1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/ai-resume-screening-agent.git
+git clone https://github.com/<your-username>/AI-ResumeScreeningAgent.git
 cd AI-ResumeScreeningAgent
