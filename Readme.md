@@ -112,9 +112,24 @@ DIAGRAM
 
 See `assets/architecture_diagram.png` for a visual architecture diagram.
 
-(Generated using Mermaid and exported via an online editor like mermaid.live or draw.io.)
-
 ---
+
+KEY FUTURE ENHANCEMENTS
+
+ 1. Advanced Skill Extraction (NER-based)
+  Use NLP models to detect technical & soft skills more accurately instead of simple keyword matching.
+
+ 2️. Customizable Scoring Weights
+  Allow recruiters to decide what matters more: skills, experience, education, domain, etc.
+
+ 3️. ATS Integration (Industry Ready)
+  Export screened candidates directly to HR systems like Naukri ATS, Lever, or Google Sheets.
+
+ 4️. Bias & Fairness Detection
+  Ensure screening remains unbiased toward gender, age, or region by anonymous evaluation options.
+
+ 5️. Login + Screening History
+  Store and revisit multiple screening sessions, making the app useful for ongoing hiring pipelines.
 
 SETUP & RUN INSTRUCTIONS
 
