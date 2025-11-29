@@ -4,7 +4,7 @@ This project is built for the AI Agent Development Challenge as a Resume Screeni
 
 ---
 
-Overview
+OVERVIEW
 
 Recruiters often receive hundreds of resumes for a single role and manually screening them is slow and inconsistent. This agent:
 
@@ -17,7 +17,7 @@ Recruiters often receive hundreds of resumes for a single role and manually scre
 
 The agent runs entirely on local/open-source models(Hugging Face)–no paid APIs or external LLM calls are required.
 
-Features
+FEATURES
 
 - Job Description Input – paste any JD with required skills, role and responsibilities  
 - Multi-Resume Upload – upload several candidate resumes at once (PDF/TXT)  
@@ -69,7 +69,7 @@ Other
 
 ---
 
-Architecture
+ARCHITECTURE
 
 High-Level flow
 
@@ -122,4 +122,4 @@ SETUP & RUN INSTRUCTIONS
 
 ```bash
 git clone https://github.com/<your-username>/ai-resume-screening-agent.git
-cd ai-ResumeScreeningAgent
+cd AI-ResumeScreeningAgent
