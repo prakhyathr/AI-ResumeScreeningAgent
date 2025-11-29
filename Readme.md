@@ -122,4 +122,4 @@ SETUP & RUN INSTRUCTIONS
 
 ```bash
 git clone https://github.com/<your-username>/ai-resume-screening-agent.git
-cd ai-resume-screening-agent
+cd ai-ResumeScreeningAgent
